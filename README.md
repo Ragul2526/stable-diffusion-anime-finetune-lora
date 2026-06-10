@@ -46,6 +46,14 @@ The LoRA fine-tuned model shows clear style transfer towards anime aesthetics:
 
 ---
 
+## Saved Weights
+LoRA weights are saved to Google Drive after training. To load and 
+continue fine-tuning or generate images without retraining, mount 
+your Drive and load from:
+/content/drive/MyDrive/lora-anime-output
+
+---
+
 ## Model details
 
 | Setting | Value |
